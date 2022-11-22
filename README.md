@@ -6,4 +6,6 @@ You will need the NEoWs API which is a free, open source API provided by NASA JP
 
 The resulting output of the project will be two screens: a Main screen with a list of all the detected asteroids and a Details screen that is going to display the data of that asteroid once it´s selected in the Main screen list. The main screen will also show the NASA image of the day to make the app more striking.
 
-The first step is to get an API Key from NASA :  https://api.nasa.gov/ 
+You will need API Key from NASA  :  https://api.nasa.gov/ 
+
+Put your API KEY in Constants ( you will see the comment ) 
